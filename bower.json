@@ -1,0 +1,21 @@
+{
+  "name": "MandragoreGallery.github.io",
+  "version": "0.0.1",
+  "homepage": "http://mandragore.gallery/",
+  "authors": [
+    "Sébastien Denooz <sebastien@clicandwalk.com>"
+  ],
+  "description": "Mandragore Gallery website",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
